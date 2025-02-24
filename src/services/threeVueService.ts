@@ -5,7 +5,7 @@ import { API_URL } from "../constants/constants.ts";
  */
 export const fetch3vueData = async () => {
   try {
-    const httpOptions = createHttpOptions("GET"); // You can omit 'GET' if you prefer default behavior
+    const httpOptions = createHttpOptions("GET");
 
     const healthProductResponse = await fetch(API_URL, httpOptions);
 
