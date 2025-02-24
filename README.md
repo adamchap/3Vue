@@ -1,3 +1,9 @@
+# Instructions
+
+To run this application locally, please clone this repository and open it in your IDE.
+Run the following commands in your terminal -
+```npm i``` to install packages and modules, followed by ```npm run dev```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
